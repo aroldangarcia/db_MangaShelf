@@ -2,7 +2,7 @@
   "mangas": [
     {
       "id": 1,
-      "nombre": "Solo Leveling"
+      "nombre": "Solo Leveling",
       "numVolumenes": 72,
       "autor": "Chu-Gong",
       "editorial": "Norma Comics",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "nombre": "Chainsaw Man"
+      "nombre": "Chainsaw Man",
       "numVolumenes": 72,
       "autor": "Chu-Gong",
       "editorial": "Norma Comics",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "nombre": "Ataque a los Titanes"
+      "nombre": "Ataque a los Titanes",
       "numVolumenes": 72,
       "autor": "Chu-Gong",
       "editorial": "Norma Comics",
@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "nombre": "Boy's Abyss"
+      "nombre": "Boy's Abyss",
       "numVolumenes": 72,
       "autor": "Chu-Gong",
       "editorial": "Norma Comics",
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "nombre": "My Hero Academia"
+      "nombre": "My Hero Academia",
       "numVolumenes": 72,
       "autor": "Chu-Gong",
       "editorial": "Norma Comics",
@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "nombre": "Grand Blue Dreaming"
+      "nombre": "Grand Blue Dreaming",
       "numVolumenes": 72,
       "autor": "Chu-Gong",
       "editorial": "Norma Comics",
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "nombre": "Blue Lock"
+      "nombre": "Blue Lock",
       "numVolumenes": 72,
       "autor": "Chu-Gong",
       "editorial": "Norma Comics",
@@ -58,7 +58,7 @@
     },
     {
       "id": 8,
-      "nombre": "Tokyo Revengers"
+      "nombre": "Tokyo Revengers",
       "numVolumenes": 72,
       "autor": "Chu-Gong",
       "editorial": "Norma Comics",
@@ -66,7 +66,7 @@
     },
     {
       "id": 10,
-      "nombre": "Mushoku Tensei"
+      "nombre": "Mushoku Tensei",
       "numVolumenes": 72,
       "autor": "Chu-Gong",
       "editorial": "Norma Comics",
@@ -74,7 +74,7 @@
     },
     {
       "id": 11,
-      "nombre": "Chigayafuru"
+      "nombre": "Chigayafuru",
       "numVolumenes": 72,
       "autor": "Chu-Gong",
       "editorial": "ECC Editorial",
@@ -82,7 +82,7 @@
     },
     {
       "id": 12,
-      "nombre": "Jujutsu Kaisen"
+      "nombre": "Jujutsu Kaisen",
       "numVolumenes": 72,
       "autor": "Chu-Gong",
       "editorial": "Norma Comics",
@@ -90,7 +90,7 @@
     },
     {
       "id": 12,
-      "nombre": "One Piece"
+      "nombre": "One Piece",
       "numVolumenes": 72,
       "autor": "Chu-Gong",
       "editorial": "Norma Comics",
